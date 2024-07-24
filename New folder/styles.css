@@ -21,6 +21,7 @@ body{
     margin-top:4%;
     margin-left:26%;
     background-image: linear-gradient(aliceblue, white);
+    font-family:helvetica;
 }
 .savebtn{
     position: relative;
